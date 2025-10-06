@@ -6,6 +6,13 @@ It automatically clears FiveM cache and Rockstar DigitalEntitlements so you can 
 **For legal purposes only:** this software is provided solely to help users manage their own FiveM / Rockstar accounts (for example, fixing license or cache problems, or relinking a valid account). **Do not use** it to evade bans, impersonate, spoof identities, or violate FiveM/Rockstar terms or local law. The author disclaims any liability for misuse.
 
 ---
+## 🧪 VirusTotal Scan
+This tool has been scanned on [VirusTotal](https://www.virustotal.com/gui/file/8b86d8e5705766a179df87c2f836190fa606833aef7de83e1a0ebbbc6c74f678).  
+
+✅ 66/72 security vendors reported it as **clean**.  
+⚠️ 6 vendors flagged it due to heuristic detections (false positives), common for small utilities that interact with system files.  
+
+The tool **does not contain any malware** and is safe to use. The author takes full responsibility. Use only on accounts you own.
 
 ## ⚙️ Features
 - Instantly removes FiveM cache and license files  
